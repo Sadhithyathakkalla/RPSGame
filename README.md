@@ -6,7 +6,7 @@ RPSGame is a simple web-based implementation of the classic Rock, Paper, Scissor
 
 ****Features****
 
-**User vs. Computer:** Play against a computer that randomly selects Rock, Paper, or Scissors.
+**User vs. Computer:** Play against a computer that randomly selects Rock, Paper, or Scissors.\n
 **Real-time Interaction:** Immediate feedback on the game outcome (Win, Lose, or Draw).
 **Responsive Design:** The game interface is responsive and can be played on various devices, including desktops, tablets, and smartphones.
 
